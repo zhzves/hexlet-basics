@@ -1,2 +1,7 @@
 # hexlet-basics123 and im free!!
-ок
+ок 
+
+## sub header
+
+1. learn git
+*. dfdhfdsß
