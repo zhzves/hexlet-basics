@@ -1,5 +1,6 @@
 # hexlet-basics123 and im free!!
-ок 
+ок :rage1: 
+:godmode:
 
 ## sub header
 
