@@ -4,4 +4,4 @@
 ## sub header
 
 1. learn git
-*. dfdhfdsß
+* dfdhfdsß
